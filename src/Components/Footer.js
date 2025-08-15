@@ -1,6 +1,6 @@
 import "../css/footer.css";
 import "../css/App.css";
-import { BsFacebook, BsInstagram, BsLinkedin } from "react-icons/bs";
+import { BsFacebook, BsInstagram } from "react-icons/bs";
 
 function Footer() {
   return (
